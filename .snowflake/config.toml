@@ -1,8 +1,8 @@
 [connections.default]
 warehouse = "COMPUTE_WH"
 role = "ACCOUNTADMIN"
-database = "SANDBOX"
+database = "DEMO_DW"
 schema = "PUBLIC"
-account = "HWYMCXQ-KA70914"
-user = "ksaoula"
-password = "Business@@2025"
+account = "Account-identifier"
+user = "user"
+password = "mdp"
