@@ -1,8 +1,8 @@
 [connections.default]
-warehouse = "QUICKSTART_WH"
+warehouse = "COMPUTE_WH"
 role = "ACCOUNTADMIN"
-database = "QUICKSTART_COMMON"
+database = "SANDBOX"
 schema = "PUBLIC"
-account = "<INSERT YOUR ACCOUNT IDENTIFIER>"
-user = "<INSERT YOUR USERNAME>"
-password = "<INSERT YOUR PASSWORD>"
+account = "HWYMCXQ-KA70914"
+user = "ksaoula"
+password = "Business@@2025"
